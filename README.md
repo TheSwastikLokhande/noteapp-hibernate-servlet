@@ -21,8 +21,7 @@ NodeTracker is a simple Java web-based note management system using Servlets, Hi
 - Eclipse IDE
 
 ## Project Structure
-
-'''
+```
 
 NodeTracker/
 ├── src/main/java/com/entities/Note.java
@@ -36,5 +35,4 @@ NodeTracker/
 │ └── index.jsp
 ├── pom.xml
 └── .settings, .classpath, .project (Eclipse specific)
-
-'''
+```
